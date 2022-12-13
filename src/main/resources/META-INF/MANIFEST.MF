@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Main-Class: br.imd.distprog.configserver.ConfigServerApplication
+Class-Path: commons-codec-1.15.jar logback-core-1.4.5.jar spring-cloud-c
+ ommons-4.0.0-RC2.jar log4j-api-2.19.0.jar LatencyUtils-2.0.3.jar jakart
+ a.validation-api-3.0.2.jar micrometer-commons-1.10.2.jar sshd-common-2.
+ 8.0.jar spring-webmvc-6.0.2.jar bcutil-jdk15on-1.69.jar log4j-to-slf4j-
+ 2.19.0.jar micrometer-core-1.10.2.jar snakeyaml-1.33.jar spring-core-6.
+ 0.2.jar sshd-osgi-2.8.0.jar bcpkix-jdk15on-1.69.jar jackson-datatype-js
+ r310-2.14.1.jar spring-boot-starter-json-3.0.0.jar spring-cloud-config-
+ server-4.0.0-RC2.jar logback-classic-1.4.5.jar HdrHistogram-2.1.12.jar 
+ spring-cloud-config-client-4.0.0-RC2.jar hibernate-validator-8.0.0.Fina
+ l.jar sshd-sftp-2.8.0.jar spring-boot-starter-actuator-3.0.0.jar spring
+ -boot-autoconfigure-3.0.0.jar eddsa-0.3.0.jar tomcat-embed-core-10.1.1.
+ jar JavaEWAH-1.1.13.jar spring-boot-starter-3.0.0.jar spring-security-c
+ rypto-6.0.0.jar org.eclipse.jgit-6.2.0.202206071550-r.jar classmate-1.5
+ .1.jar spring-boot-starter-tomcat-3.0.0.jar spring-context-6.0.2.jar sp
+ ring-cloud-context-4.0.0-RC2.jar httpcore5-5.1.5.jar jackson-annotation
+ s-2.14.1.jar micrometer-observation-1.10.2.jar slf4j-api-2.0.4.jar spri
+ ng-boot-3.0.0.jar jakarta.annotation-api-2.1.1.jar sshd-core-2.8.0.jar 
+ bcprov-jdk15on-1.69.jar httpcore5-h2-5.1.5.jar spring-boot-devtools-3.0
+ .0.jar spring-boot-starter-logging-3.0.0.jar jackson-module-parameter-n
+ ames-2.14.1.jar spring-aop-6.0.2.jar spring-boot-actuator-3.0.0.jar jac
+ kson-datatype-jdk8-2.14.1.jar tomcat-embed-websocket-10.1.1.jar org.ecl
+ ipse.jgit.http.apache-6.2.0.202206071550-r.jar jackson-core-2.14.1.jar 
+ spring-boot-starter-web-3.0.0.jar spring-boot-starter-validation-3.0.0.
+ jar jboss-logging-3.5.0.Final.jar tomcat-embed-el-10.1.1.jar httpclient
+ -4.5.13.jar jcl-over-slf4j-2.0.4.jar spring-security-rsa-1.0.11.RELEASE
+ .jar spring-web-6.0.2.jar spring-beans-6.0.2.jar jackson-dataformat-yam
+ l-2.14.1.jar httpclient5-5.1.4.jar spring-expression-6.0.2.jar org.ecli
+ pse.jgit.ssh.apache-6.2.0.202206071550-r.jar jul-to-slf4j-2.0.4.jar jac
+ kson-databind-2.14.1.jar spring-boot-actuator-autoconfigure-3.0.0.jar s
+ pring-jcl-6.0.2.jar httpcore-4.4.15.jar
+
