@@ -15,3 +15,4 @@ Um serviço para obtenção de arquivos de configuração para os application se
 - Gateway
 - Inventory Management
 - Procurement
+- Config Server
